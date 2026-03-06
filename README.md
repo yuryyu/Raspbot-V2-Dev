@@ -21,19 +21,3 @@ For Superior Version
 
 3. Integrating a large model and an extensible RAG knowledge system enhances task awareness and complex problem-solving capabilities.
 
-# Required Best Buy Links
-
-[By on Yahboom website](https://category.yahboom.net/products/raspbot-v2)
-
-# Please Contact Us
-If you have any problem when using our robot after checking the tutorial, please contact us.
-
-### Facebook: 
-https://www.facebook.com/yahboomcar/ 
-  
-### WhatsApp:
-+86 18682378128
-
-### Technical support email: 
-support@yahboom.com
-
